@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <ImageView
+        android:id="@+id/avatar"
+        android:layout_width="@dimen/avatar_size"
+        android:layout_height="@dimen/avatar_size"
+        android:layout_marginStart="@dimen/item_padding"
+        android:layout_marginTop="@dimen/item_padding"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:srcCompat="@tools:sample/avatars"/>
+
+    <Space
+        android:id="@+id/avatar_space"
+        android:layout_width="@dimen/avatar_space"
+        android:layout_height="0dp"
+        app:layout_constraintBottom_toBottomOf="@+id/avatar"
+        app:layout_constraintStart_toEndOf="@+id/avatar"
+        app:layout_constraintTop_toTopOf="@id/avatar" />
+
+    <TextView
+        android:id="@+id/user_name"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="@dimen/text_space"
+        app:layout_constraintEnd_toStartOf="@+id/star_count"
+        app:layout_constraintStart_toEndOf="@+id/avatar_space"
+        app:layout_constraintTop_toTopOf="@+id/avatar"
+        tools:text="@tools:sample/first_names" />
+
+    <TextView
+        android:id="@+id/repo_name"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/text_space"
+        app:layout_constraintEnd_toStartOf="@+id/fork_count"
+        app:layout_constraintStart_toEndOf="@+id/avatar_space"
+        app:layout_constraintTop_toBottomOf="@id/user_name"
+        android:layout_marginEnd="@dimen/text_space"
+        tools:text="@tools:sample/cities" />
+
+    <TextView
+        android:id="@+id/star_count"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="@dimen/item_padding"
+        android:drawableStart="@drawable/ic_baseline_star_24"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/user_name"
+        tools:text="5" />
+
+    <TextView
+        android:id="@+id/fork_count"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="@dimen/item_padding"
+        android:drawableStart="@drawable/ic_baseline_alt_route_24"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/star_count"
+        android:layout_marginTop="@dimen/text_space"
+        tools:text="3" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#252525"
+        android:layout_marginTop="@dimen/item_padding"
+        app:layout_constraintTop_toBottomOf="@id/avatar"
+        app:layout_constraintBottom_toBottomOf="parent"/>
+</androidx.constraintlayout.widget.ConstraintLayout>

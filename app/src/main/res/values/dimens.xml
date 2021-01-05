@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="avatar_size">64dp</dimen>
+    <dimen name="avatar_size_big">128dp</dimen>
+    <dimen name="item_padding">16dp</dimen>
+    <dimen name="avatar_space">16dp</dimen>
+    <dimen name="text_space">8dp</dimen>
+    <dimen name="button_space">16dp</dimen>
+</resources>
