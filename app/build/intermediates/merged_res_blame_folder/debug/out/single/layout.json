@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\marco\\AndroidStudioProjects\\GithubReposApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_main.xml",
+        "source": "C:\\Users\\marco\\AndroidStudioProjects\\GithubReposApp\\app\\src\\main\\res\\layout\\fragment_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\marco\\AndroidStudioProjects\\GithubReposApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_details.xml",
+        "source": "C:\\Users\\marco\\AndroidStudioProjects\\GithubReposApp\\app\\src\\main\\res\\layout\\fragment_details.xml"
+    },
+    {
+        "merged": "C:\\Users\\marco\\AndroidStudioProjects\\GithubReposApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\repo_item.xml",
+        "source": "C:\\Users\\marco\\AndroidStudioProjects\\GithubReposApp\\app\\src\\main\\res\\layout\\repo_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\marco\\AndroidStudioProjects\\GithubReposApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "C:\\Users\\marco\\AndroidStudioProjects\\GithubReposApp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]

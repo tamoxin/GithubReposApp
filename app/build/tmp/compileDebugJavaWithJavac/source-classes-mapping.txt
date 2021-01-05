@@ -1,0 +1,10 @@
+com/marcocarrizales/githubreposapp/databinding/FragmentMainBinding.java
+ com.marcocarrizales.githubreposapp.databinding.FragmentMainBinding
+com/marcocarrizales/githubreposapp/databinding/RepoItemBinding.java
+ com.marcocarrizales.githubreposapp.databinding.RepoItemBinding
+com/marcocarrizales/githubreposapp/databinding/ActivityMainBinding.java
+ com.marcocarrizales.githubreposapp.databinding.ActivityMainBinding
+com/marcocarrizales/githubreposapp/databinding/FragmentDetailsBinding.java
+ com.marcocarrizales.githubreposapp.databinding.FragmentDetailsBinding
+com/marcocarrizales/githubreposapp/BuildConfig.java
+ com.marcocarrizales.githubreposapp.BuildConfig

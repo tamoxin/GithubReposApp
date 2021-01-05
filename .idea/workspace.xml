@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="error" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9ad35739-42ff-4b70-addb-9ff057b4ae38" name="Default Changelist" comment="Working app. Need to redo the tests" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[SerialNumber@806KPUU1905358]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Interface" />
+        <option value="valueResourceFile" />
+        <option value="resourceFile" />
+        <option value="Kotlin File" />
+        <option value="Kotlin Class" />
+        <option value="layoutResourceFile" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1mcfZ3GMVINOCPVOmxtuW7T7MAG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DEBUGGABLE_DEVICE" value="google-pixel_2_xl-806KPUU1905358" />
+    <property name="DEBUGGABLE_PROCESS" value="com.marcocarrizales.githubreposapp" />
+    <property name="DEBUGGER_ID" value="Auto" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHOW_ALL_PROCESSES" value="false" />
+    <property name="android-custom-viewC:/Users/marco/.gradle/caches/modules-2/files-2.1/androidx.appcompat/appcompat/1.2.0/13e8ff89631c2e101eb6bddd12c2fb4bbd74b15d/appcompat-1.2.0-sources.jar!/androidx/appcompat/widget/SearchView.java_SELECTED" value="SearchView" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/test/java/com/marcocarrizales/githubreposapp" />
+    <property name="settings.editor.selected.configurable" value="preferences.intentionPowerPack" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.marcocarrizales.githubreposapp.viewmodel" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateKotlinClassDialog.RecentsKey">
+      <recent name="com.marcocarrizales.githubreposapp.model" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Android App.app">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="GithubReposApp.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GithubViewModelTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.marcocarrizales.githubreposapp.viewmodel.GithubViewModelTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":app:cleanTestDebugUnitTest" />
+            <option value=":app:testDebugUnitTest" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.GithubViewModelTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9ad35739-42ff-4b70-addb-9ff057b4ae38" name="Default Changelist" comment="" />
+      <created>1609797851805</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609797851805</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Working app. Need to redo the tests">
+      <created>1609823596177</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1609823596177</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Working app. Need to redo the tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="Working app. Need to redo the tests" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="560" y="133" key="#com.intellij.ide.util.MemberChooser" timestamp="1609818738642">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="560" y="133" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834/-1280.0.1024.1250@0.0.1536.834" timestamp="1609818738642" />
+    <state x="306" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1609817707240">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="306" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.834/-1280.0.1024.1250@0.0.1536.834" timestamp="1609817707240" />
+    <state x="538" y="209" width="461" height="416" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1609802818582">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="538" y="209" width="461" height="416" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.0.1536.834/-1280.0.1024.1250@0.0.1536.834" timestamp="1609802818582" />
+    <state x="678" y="170" width="594" height="493" key="#xdebugger.XInspectDialog" timestamp="1609813004097">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="678" y="170" width="594" height="493" key="#xdebugger.XInspectDialog/0.0.1536.834/-1280.0.1024.1250@0.0.1536.834" timestamp="1609813004097" />
+    <state x="298" y="94" width="889" height="593" key="#xdebugger.evaluate" timestamp="1609815579633">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="298" y="94" width="889" height="593" key="#xdebugger.evaluate/0.0.1536.834/-1280.0.1024.1250@0.0.1536.834" timestamp="1609815579633" />
+    <state x="349" y="172" key="AndroidCreateResourceDirectoryDialog" timestamp="1609804690783">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="349" y="172" key="AndroidCreateResourceDirectoryDialog/0.0.1536.834/-1280.0.1024.1250@0.0.1536.834" timestamp="1609804690783" />
+    <state x="349" y="172" key="AndroidCreateResourceFileDialog" timestamp="1609816538673">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="349" y="172" key="AndroidCreateResourceFileDialog/0.0.1536.834/-1280.0.1024.1250@0.0.1536.834" timestamp="1609816538673" />
+    <state x="614" y="225" key="AndroidCreateXmlResourceDialog" timestamp="1609804507664">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="614" y="225" key="AndroidCreateXmlResourceDialog/0.0.1536.834/-1280.0.1024.1250@0.0.1536.834" timestamp="1609804507664" />
+    <state x="559" y="164" key="AndroidProcessChooserDialog" timestamp="1609818671833">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="559" y="164" key="AndroidProcessChooserDialog/0.0.1536.834/-1280.0.1024.1250@0.0.1536.834" timestamp="1609818671833" />
+    <state width="523" height="466" key="DebuggerActiveHint" timestamp="1609818726219">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="523" height="466" key="DebuggerActiveHint/0.0.1536.834/-1280.0.1024.1250@0.0.1536.834" timestamp="1609818726219" />
+    <state x="629" y="315" key="Github.ShareDialog" timestamp="1609823383455">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="629" y="315" key="Github.ShareDialog/0.0.1536.834/-1280.0.1024.1250@0.0.1536.834" timestamp="1609823383455" />
+    <state x="709" y="112" key="Github.UntrackedFilesDialog" timestamp="1609823405106">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="709" y="112" key="Github.UntrackedFilesDialog/0.0.1536.834/-1280.0.1024.1250@0.0.1536.834" timestamp="1609823405106" />
+    <state width="1493" height="214" key="GridCell.Tab.0.bottom" timestamp="1609823544036">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="214" key="GridCell.Tab.0.bottom/0.0.1536.834/-1280.0.1024.1250@0.0.1536.834" timestamp="1609823544036" />
+    <state width="1493" height="214" key="GridCell.Tab.0.center" timestamp="1609823544036">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="214" key="GridCell.Tab.0.center/0.0.1536.834/-1280.0.1024.1250@0.0.1536.834" timestamp="1609823544036" />
+    <state width="1493" height="214" key="GridCell.Tab.0.left" timestamp="1609823544036">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="214" key="GridCell.Tab.0.left/0.0.1536.834/-1280.0.1024.1250@0.0.1536.834" timestamp="1609823544036" />
+    <state width="1493" height="214" key="GridCell.Tab.0.right" timestamp="1609823544036">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="214" key="GridCell.Tab.0.right/0.0.1536.834/-1280.0.1024.1250@0.0.1536.834" timestamp="1609823544036" />
+    <state width="1493" height="511" key="GridCell.Tab.1.bottom" timestamp="1609818757566">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="511" key="GridCell.Tab.1.bottom/0.0.1536.834/-1280.0.1024.1250@0.0.1536.834" timestamp="1609818757566" />
+    <state width="1493" height="511" key="GridCell.Tab.1.center" timestamp="1609818757566">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="511" key="GridCell.Tab.1.center/0.0.1536.834/-1280.0.1024.1250@0.0.1536.834" timestamp="1609818757566" />
+    <state width="1493" height="511" key="GridCell.Tab.1.left" timestamp="1609818757566">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="511" key="GridCell.Tab.1.left/0.0.1536.834/-1280.0.1024.1250@0.0.1536.834" timestamp="1609818757566" />
+    <state width="1493" height="511" key="GridCell.Tab.1.right" timestamp="1609818757566">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="511" key="GridCell.Tab.1.right/0.0.1536.834/-1280.0.1024.1250@0.0.1536.834" timestamp="1609818757566" />
+    <state x="277" y="62" key="SettingsEditor" timestamp="1609822249874">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="277" y="62" key="SettingsEditor/0.0.1536.834/-1280.0.1024.1250@0.0.1536.834" timestamp="1609822249874" />
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1609824002816">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834/-1280.0.1024.1250@0.0.1536.834" timestamp="1609824002816" />
+    <state x="584" y="195" key="chooseDestDirectoryDialog" timestamp="1609822320600">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="584" y="195" key="chooseDestDirectoryDialog/0.0.1536.834/-1280.0.1024.1250@0.0.1536.834" timestamp="1609822320600" />
+    <state x="496" y="227" key="org.jetbrains.kotlin.idea.testIntegration.KotlinCreateTestDialog" timestamp="1609822320623">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="496" y="227" key="org.jetbrains.kotlin.idea.testIntegration.KotlinCreateTestDialog/0.0.1536.834/-1280.0.1024.1250@0.0.1536.834" timestamp="1609822320623" />
+    <state x="486" y="189" key="refactoring.ChangeSignatureDialog" timestamp="1609811142280">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="486" y="189" key="refactoring.ChangeSignatureDialog/0.0.1536.834/-1280.0.1024.1250@0.0.1536.834" timestamp="1609811142280" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1609823456134">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834/-1280.0.1024.1250@0.0.1536.834" timestamp="1609823456134" />
+  </component>
+</project>
